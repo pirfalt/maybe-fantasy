@@ -1,0 +1,20 @@
+{
+  "name": "maybe-fantasy",
+  "version": "0.0.0",
+  "description": "Fantasyland maybe implementation",
+  "main": "maybe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pirfalt/maybe-fantasy.git"
+  },
+  "keywords": [
+    "maybe",
+    "fantasy"
+  ],
+  "author": "Emil Pirfalt",
+  "license": "MIT",
+  "gitHead": "cb034c5bc5610de76157a36981519fddc6397276"
+}

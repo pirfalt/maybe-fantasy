@@ -12,7 +12,7 @@ Maybe.of = function(val) {
 	return new Maybe(val, false)
 }
 
-Maybe.Nothing = function() {
+Maybe.nothing = function() {
 	return new Maybe(null, true)
 }
 
